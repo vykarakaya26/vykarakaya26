@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭I am currently studying at Eskişehir Osmangazi University.<br>🌱 I’m currently learning Data Science<br>💬 Ask me about Data Science
+🔭I am currently studying at Eskişehir Osmangazi University.<br>🌱 I’m currently learning Data Science<br>💬 You could ask me about Data Science and Practicus AI.
 
 
 ## 🌐 Socials:
